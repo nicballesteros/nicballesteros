@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicballesteros
 - 👀 I’m interested in Javascript Development and Backend Development
-- 🌱 I’m currently learning VueJS and NodeJS
+- 🌱 I’m currently learning VueJS, NodeJS, Rust, and AWS (CDK)
 - 📫 How to reach me: nicballesteros2@gmail.com
 
 <!---
